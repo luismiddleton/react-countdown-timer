@@ -10,7 +10,9 @@
 _______
 
 #### Copy repo to destination folder
-
+```sh
+git clone https://github.com/luismiddleton/react-countdown-timer.git
+```
 
 #### Import component
 ```js
